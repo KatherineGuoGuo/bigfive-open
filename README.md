@@ -2,8 +2,6 @@
 
 Open-source **Big Five personality test** — questions, scoring algorithm, and TypeScript types based on the public-domain IPIP-50 inventory.
 
-Powers the live test at **[bigfivepersonality.me](https://bigfivepersonality.me)**.
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Questions](https://img.shields.io/badge/items-IPIP--50-blue)](https://ipip.ori.org/new_ipip-50-item-scale.htm)
 [![Types](https://img.shields.io/badge/TypeScript-strict-3178c6)](./tsconfig.json)
@@ -16,7 +14,7 @@ Existing open Big Five implementations are either heavy full-stack apps or unmai
 
 Use it to build:
 
-- A personality test web app (like [bigfivepersonality.me](https://bigfivepersonality.me))
+- A personality test web app
 - A research tool or survey
 - A Discord / Slack bot
 - A mobile app
