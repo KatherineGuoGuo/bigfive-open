@@ -27,7 +27,7 @@
   "homepage": "https://bigfivepersonality.me",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/bigfive-open"
+    "url": "https://github.com/Katherine-guoguoboss/bigfive-open"
   },
   "devDependencies": {
     "typescript": "^5.6.0"

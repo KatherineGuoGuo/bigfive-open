@@ -39,7 +39,7 @@ No React. No Next.js. No i18n framework. Just functions and types.
 
 ```bash
 # via git (until published to npm)
-pnpm add github:YOUR_USERNAME/bigfive-open
+pnpm add github:Katherine-guoguoboss/bigfive-open
 ```
 
 ## Usage
