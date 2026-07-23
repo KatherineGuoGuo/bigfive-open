@@ -1,7 +1,8 @@
 # bigfive-open
 
-Open-source **Big Five personality test** — questions, scoring algorithm, and TypeScript types based on the public-domain IPIP-50 inventory.
+Open-source **[Big Five personality test](https://bigfivepersonality.me)** — questions, scoring algorithm, and TypeScript types based on the public-domain IPIP-50 inventory. This is the engine behind [bigfivepersonality.me](https://bigfivepersonality.me), a free, anonymous, no-sign-up Big Five test.
 
+[![Live demo](https://img.shields.io/badge/live%20demo-bigfivepersonality.me-6d5efc)](https://bigfivepersonality.me)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Questions](https://img.shields.io/badge/items-IPIP--50-blue)](https://ipip.ori.org/new_ipip-50-item-scale.htm)
 [![Types](https://img.shields.io/badge/TypeScript-strict-3178c6)](./tsconfig.json)
@@ -37,7 +38,7 @@ No React. No Next.js. No i18n framework. Just functions and types.
 
 ```bash
 # via git (until published to npm)
-pnpm add github:Katherine-guoguoboss/bigfive-open
+pnpm add github:KatherineGuoGuo/bigfive-open
 ```
 
 ## Usage
@@ -94,7 +95,9 @@ Please keep the core dependency-free.
 
 ## Related
 
-- Live demo: **<https://bigfivepersonality.me>**
+- **Live demo — [take the Big Five personality test](https://bigfivepersonality.me)** (free, anonymous, no sign-up)
+- [The Big Five personality traits explained](https://bigfivepersonality.me/big-five-personality-traits) — the OCEAN model and each of the five dimensions
+- [How to interpret your Big Five scores](https://bigfivepersonality.me/big-five-score-interpretation) — what low / medium / high mean per domain
 - IPIP (authoritative source): <https://ipip.ori.org/>
 
 ## License
